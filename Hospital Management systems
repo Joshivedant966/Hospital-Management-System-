@@ -130,7 +130,7 @@ class Hospital:
             else:
                 print('Enter proper command\n')
 
-# Create an instance of the class
+#  classCalling=================
 hptl = Hospital()
 # Initial data
 hptl.add_patient("hr.001", "A", 20, "AB+", 'male', 'astama', 'Dr.joshi')
